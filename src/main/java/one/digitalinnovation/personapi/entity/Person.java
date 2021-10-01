@@ -9,7 +9,6 @@ import javax.persistence.*;
 import java.time.LocalDate;
 import java.util.List;
 
-
 @Entity
 @Data
 @Builder
@@ -34,4 +33,6 @@ public class Person {
 
     @OneToMany(fetch = FetchType.LAZY, cascade = {CascadeType.PERSIST, CascadeType.MERGE, CascadeType.REMOVE})
     private List<Phone> phones;
+
+
 }
