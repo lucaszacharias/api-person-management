@@ -43,7 +43,7 @@ Abaixo está uma descrição do processo e os passos envolvidos:
 * Relação de cada uma das operações acima com o padrão arquitetural REST, e a explicação de cada um dos conceitos REST envolvidos durante o desenvolvimento do projeto.
 * Desenvolvimento de testes unitários para validação das funcionalidades
 * Implantação do sistema na nuvem através do Heroku
-* Realização de teste unitário 
+* Realização de teste unitário em métodos 
 
 ---
 
